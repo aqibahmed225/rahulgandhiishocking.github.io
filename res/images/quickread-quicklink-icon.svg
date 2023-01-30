@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.893" height="20.172" viewBox="0 0 21.893 20.172">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#212121}.cls-1,.cls-2,.cls-4{stroke:#fff;stroke-width:1.2px}.cls-2,.cls-4{stroke-linecap:round}.cls-4,.cls-6{fill:none}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_9006" data-name="Group 9006" transform="translate(23279.1 21012.008)">
+        <g id="Rectangle_4243" data-name="Rectangle 4243" class="cls-1" transform="translate(-23274.018 -21012.008)">
+            <rect class="cls-5" width="16.81" height="20.173" rx="3"/>
+            <rect class="cls-6" x=".6" y=".6" width="15.61" height="18.973" rx="2.4"/>
+        </g>
+        <g id="Rectangle_4244" data-name="Rectangle 4244" class="cls-1" transform="translate(-23270.375 -21009.207)">
+            <rect class="cls-5" width="9.526" height="8.405" rx="2"/>
+            <rect class="cls-6" x=".6" y=".6" width="8.326" height="7.205" rx="1.4"/>
+        </g>
+        <path id="Path_28741" data-name="Path 28741" class="cls-2" d="M0 0h7.674" transform="translate(-23269.449 -20998.551)"/>
+        <path id="Path_28745" data-name="Path 28745" class="cls-2" d="M0 0h7.674" transform="translate(-23269.449 -20995.188)"/>
+        <path id="Rectangle_4245" data-name="Rectangle 4245" transform="translate(-23274.578 -21008.979)" style="fill:#212121" d="M0 0h3.362v8.526H0z"/>
+        <path id="Line_852" data-name="Line 852" class="cls-4" transform="translate(-23278.5 -21006.404)" d="M0 0h5.603"/>
+        <path id="Line_853" data-name="Line 853" class="cls-4" transform="translate(-23275.139 -21003.043)" d="M0 0h2.241"/>
+    </g>
+</svg>

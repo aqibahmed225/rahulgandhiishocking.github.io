@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.36" height="24.08" viewBox="0 0 22.36 24.08">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="Group_8244" data-name="Group 8244" transform="translate(-788.726 -305)">
+        <g id="Group_6532" data-name="Group 6532" transform="translate(788.726 305)">
+            <path id="Path_6166" data-name="Path 6166" d="m34.227 14.44-2.877-2.763V8.3a2.153 2.153 0 0 0-2.15-2.15h-3.607l-2.116-2.03a.43.43 0 0 0-.6 0l-2.11 2.03H15.44a2.153 2.153 0 0 0-2.15 2.15v1.72a.43.43 0 0 0 .43.43h1.29v1.227l-2.878 2.763a.426.426 0 0 0-.132.31v12.9a.43.43 0 0 0 .43.43h21.5a.43.43 0 0 0 .43-.43v-12.9a.426.426 0 0 0-.133-.309zm-2.877-1.571 1.511 1.451H31.35zm0 2.311h1.25l-1.247.9zm-3.44-5.16V8.3a1.29 1.29 0 1 1 2.58 0v8.4l-7.31 5.26-7.31-5.26v-6.25h11.61a.43.43 0 0 0 .43-.43zm-4.73-4.994 1.171 1.124h-2.342zM14.15 9.59V8.3a1.29 1.29 0 0 1 1.29-1.29h12.051a2.128 2.128 0 0 0-.441 1.29v1.29zm.86 3.279v1.451H13.5zm0 2.311v.9l-1.247-.9zm-2.15.409 8.316 5.987-8.316 5.29zm1.047 11.631 8.02-5.1 1 .721a.43.43 0 0 0 .5 0l1-.721 8.02 5.1zm19.593-.354-8.316-5.289 8.316-5.988z" transform="translate(-12 -4)" style="fill:#fff"/>
+        </g>
+        <path id="Line_744" data-name="Line 744" class="cls-2" transform="translate(795.77 313.547)" d="M0 0h7.184"/>
+        <path id="Line_745" data-name="Line 745" class="cls-2" transform="translate(795.77 315.753)" d="M0 0h7.184"/>
+        <path id="Line_746" data-name="Line 746" class="cls-2" transform="translate(795.77 317.958)" d="M0 0h7.184"/>
+    </g>
+</svg>
